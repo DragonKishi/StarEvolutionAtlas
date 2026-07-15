@@ -183,9 +183,13 @@ H-R Diagram/
 | Dataset | Source |
 
 | **HYG v3 Database** | D. Nash / astronexus (GitHub) | 
+
 | **Hipparcos Catalog** | ESA, van Leeuwen 2007, A&A 474 |
+
 | **Yale Bright Star Catalog** | Hoffleit & Warren 1991 |
+
 | **Gliese Catalog of Nearby Stars** | Gliese & Jahreiß 1991 | 
+
 | **Stellar Evolution Tracks** | Padova (Bressan+2012), Geneva (Ekström+2012) | 
 
 ### Academic References
