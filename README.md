@@ -8,7 +8,6 @@ The Star Evolution Atlas (SEA) is a fully interactive Hertzsprung-Russell Diagra
 [![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?logo=streamlit)](https://streamlit.io)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python)](https://python.org)
 [![Data](https://img.shields.io/badge/Data-HYG%20v3%20(Hipparcos)-blue)](https://github.com/astronexus/HYG-Database)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ---
 
