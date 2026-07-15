@@ -178,48 +178,7 @@ H-R Diagram/
 - Python 3.10 or newer
 - pip
 
-### Installation
-
-```bash
-# 1. Clone or download the project
-cd "H-R Diagram"
-
-# 2. (Recommended) Create a virtual environment
-python -m venv venv
-venv\Scripts\activate          # Windows
-# source venv/bin/activate    # macOS/Linux
-
-# 3. Install dependencies
-pip install -r requirements.txt
-
-# 4. (Optional) Pre-download the star catalog
-#    This downloads ~30 MB from GitHub and saves hyg_processed.csv locally.
-#    If you skip this, the app will do it automatically on first launch.
-python data/fetch_data.py
-
-# 5. Run the app
-streamlit run app.py
-```
-
-The app will open automatically at **http://localhost:8501**
-
-### First Run
-On the first launch (or if `data/hyg_processed.csv` is missing), the app will automatically download and process the HYG star catalog. This takes ~1–2 minutes. Subsequent launches are instant.
-
-
-### `.gitignore` for the project
-```
-data/hyg_raw.csv
-data/hyg_raw.csv.gz
-venv/
-__pycache__/
-*.pyc
-.env
-```
-
-
-
-## Data Sources & Licensing
+## Sources
 
 | Dataset | Source |
 
