@@ -875,7 +875,7 @@ st.html("""
 ">
   <div style="color:rgba(100,140,200,0.4); font-size:0.73em;">
     The Star Evolution Atlas (SEA) &nbsp;·&nbsp; Star data: HYG v3.8 (Hipparcos) &nbsp;·&nbsp;
-    Evolution tracks: Padova / Geneva grids &nbsp;·&nbsp; MIT License
+    Evolution tracks: Padova / Geneva grids &nbsp;·&nbsp; 
   </div>
   <div style="font-size:0.78em; color:rgba(140,170,230,0.65); white-space:nowrap;">
     Built by
