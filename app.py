@@ -726,10 +726,10 @@ with tab4:
           <p>
             Independently invented by Ejnar Hertzsprung (1911) and Henry Norris Russell (1913),
             the H-R diagram is the cornerstone of stellar astrophysics. It reveals that stars
-            are not randomly distributed — they cluster into distinct populations that directly
+            are not randomly distributed, instead they cluster into distinct populations that directly
             reflect the physics of stellar structure and evolution.
             <br><br>
-            The X-axis runs from <b>hot (left) to cool (right)</b> — counterintuitively reversed
+            The X-axis runs from <b>hot (left) to cool (right)</b> , counterintuitively reversed
             from our instinct, because blue stars are hotter than red stars.
             The Y-axis runs from <b>bright (top) to dim (bottom)</b>.
           </p>
@@ -739,7 +739,7 @@ with tab4:
           <h3>⭐ The Main Sequence</h3>
           <p>
             The diagonal band from upper-left (hot, bright) to lower-right (cool, dim) contains
-            ~90% of all stars — including our Sun. Main-sequence stars are in <b>hydrostatic
+            ~90% of all stars, including our Sun. Main-sequence stars are in <b>hydrostatic
             equilibrium</b>: gravity pulling in is exactly balanced by radiation pressure pushing out,
             powered by hydrogen fusion in the core.
             <br><br>
@@ -769,7 +769,7 @@ with tab4:
           <p>
             Located in the lower-left, white dwarfs are the <b>dead cores</b> of stars that shed
             their envelopes as planetary nebulae. They are supported not by fusion but by
-            <b>electron degeneracy pressure</b> — a quantum mechanical effect.
+            <b>electron degeneracy pressure</b> , a quantum mechanical effect.
             <br><br>
             White dwarfs have masses up to ~1.4 M☉ (the Chandrasekhar limit). Above this,
             they can trigger Type Ia supernovae. They slowly cool over billions of years,
